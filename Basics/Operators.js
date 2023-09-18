@@ -16,7 +16,6 @@ console.log( 4 <= 6 );  // true
 console.log( 7 == '7' ); // integer and String are compared for ==
 console.log( 7 === '7' ); // integer and String are not compared for ===
 
-
 // Logical Operator
 console.log( false && true );  // And Operator
 console.log( false || true );  // Or Operator 
